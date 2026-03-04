@@ -1,10 +1,10 @@
 ## Hi there 👋
-Hi 👋, I'm 劉子軒
-🚀 A passionate backend developer from Taiwan
-🧠 About Me
-🎓 Studying at Chang Jung Christian University (CJCU)
-💬 Ask me about game
-📫 How to reach me 114b06201@mailst.cjcu.edu.tw****
+# Hi 👋, I'm 劉子軒
+- 🚀 A passionate backend developer from Taiwan
+- 🧠 About Me
+-🎓 Studying at Chang Jung Christian University (CJCU)
+- 💬 Ask me about game
+- 📫 How to reach me 114b06201@mailst.cjcu.edu.tw****
 <!--
 **Syn-2/syn-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
