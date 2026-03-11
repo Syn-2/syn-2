@@ -1,5 +1,5 @@
 # Hi 👋, I'm 劉子軒
-- 🎓 Studying at Chang Jung Christian University (CJCU)
+- 🔭 I’m currently working on CJCU
 - 🌱 I’m currently learning AMTM
 - 📫 How to reach me 114b06201@mailst.cjcu.edu.tw
 <!--
